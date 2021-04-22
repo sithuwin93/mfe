@@ -76,7 +76,7 @@
         <ul class="task-list">
           <li>
             <Checkbox name="task" value="reports" v-model="tasksCheckbox" />
-            <span class="task-name">Sales Report</span>
+            <span class="task-name">Sales Reports</span>
             <i class="pi pi-chart-bar" />
           </li>
           <li>
